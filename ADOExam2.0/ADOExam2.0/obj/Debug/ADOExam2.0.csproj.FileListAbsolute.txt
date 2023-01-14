@@ -1,0 +1,74 @@
+C:\Users\lenor\source\repos\ADOExam2.0\ADOExam2.0\bin\Debug\ADOExam2.0.exe.config
+C:\Users\lenor\source\repos\ADOExam2.0\ADOExam2.0\bin\Debug\ADOExam2.0.exe
+C:\Users\lenor\source\repos\ADOExam2.0\ADOExam2.0\bin\Debug\ADOExam2.0.pdb
+C:\Users\lenor\source\repos\ADOExam2.0\ADOExam2.0\obj\Debug\ADOExam2.0.csprojAssemblyReference.cache
+C:\Users\lenor\source\repos\ADOExam2.0\ADOExam2.0\obj\Debug\BookStore.g.cs
+C:\Users\lenor\source\repos\ADOExam2.0\ADOExam2.0\obj\Debug\MainWindow.g.cs
+C:\Users\lenor\source\repos\ADOExam2.0\ADOExam2.0\obj\Debug\App.g.cs
+C:\Users\lenor\source\repos\ADOExam2.0\ADOExam2.0\obj\Debug\ADOExam2.0_MarkupCompile.cache
+C:\Users\lenor\source\repos\ADOExam2.0\ADOExam2.0\obj\Debug\ADOExam2.0_MarkupCompile.lref
+C:\Users\lenor\source\repos\ADOExam2.0\ADOExam2.0\obj\Debug\BookStore.baml
+C:\Users\lenor\source\repos\ADOExam2.0\ADOExam2.0\obj\Debug\MainWindow.baml
+C:\Users\lenor\source\repos\ADOExam2.0\ADOExam2.0\obj\Debug\ADOExam2.0.g.resources
+C:\Users\lenor\source\repos\ADOExam2.0\ADOExam2.0\obj\Debug\ADOExam2._0.Properties.Resources.resources
+C:\Users\lenor\source\repos\ADOExam2.0\ADOExam2.0\obj\Debug\ADOExam2.0.csproj.GenerateResource.cache
+C:\Users\lenor\source\repos\ADOExam2.0\ADOExam2.0\obj\Debug\ADOExam2.0.csproj.CoreCompileInputs.cache
+C:\Users\lenor\source\repos\ADOExam2.0\ADOExam2.0\obj\Debug\ADOExam2.0.exe
+C:\Users\lenor\source\repos\ADOExam2.0\ADOExam2.0\obj\Debug\ADOExam2.0.pdb
+C:\Users\lenor\source\repos\ADOExam2.0\ADOExam2.0\obj\Debug\ShowBooks.g.cs
+C:\Users\lenor\source\repos\ADOExam2.0\ADOExam2.0\obj\Debug\ShowBooks.baml
+C:\Users\lenor\source\repos\ADOExam2.0\ADOExam2.0\obj\Debug\ShowNovelties.g.cs
+C:\Users\lenor\source\repos\ADOExam2.0\ADOExam2.0\obj\Debug\ShowNovelties.baml
+C:\Users\lenor\source\repos\ADOExam2.0\ADOExam2.0\obj\Debug\ShowBestsellers.g.cs
+C:\Users\lenor\source\repos\ADOExam2.0\ADOExam2.0\obj\Debug\ShowBestsellers.baml
+C:\Users\lenor\source\repos\ADOExam2.0\ADOExam2.0\obj\Debug\ShowPopularAuthors.g.cs
+C:\Users\lenor\source\repos\ADOExam2.0\ADOExam2.0\obj\Debug\ShowPopularAuthors.baml
+C:\Users\lenor\source\repos\ADOExam2.0\ADOExam2.0\obj\Debug\AddBook.g.cs
+C:\Users\lenor\source\repos\ADOExam2.0\ADOExam2.0\obj\Debug\AddBook.baml
+C:\Users\lenor\source\repos\ADOExam2.0\ADOExam2.0\obj\Debug\DeleteBook.g.cs
+C:\Users\lenor\source\repos\ADOExam2.0\ADOExam2.0\obj\Debug\DeleteBook.baml
+C:\Users\lenor\source\repos\ADOExam2.0\ADOExam2.0\obj\Debug\EditBook.g.cs
+C:\Users\lenor\source\repos\ADOExam2.0\ADOExam2.0\obj\Debug\EditBook.baml
+C:\Users\lenor\source\repos\ADOExam2.0\ADOExam2.0\obj\Debug\SellBook.g.cs
+C:\Users\lenor\source\repos\ADOExam2.0\ADOExam2.0\obj\Debug\SellBook.baml
+C:\Users\lenor\source\repos\ADOExam2.0\ADOExam2.0\obj\Debug\ShowSales.g.cs
+C:\Users\lenor\source\repos\ADOExam2.0\ADOExam2.0\obj\Debug\ShowSales.baml
+C:\Users\lenor\source\repos\ADOExam2.0\ADOExam2.0\obj\Debug\SearchBook.g.cs
+C:\Users\lenor\source\repos\ADOExam2.0\ADOExam2.0\obj\Debug\SearchBook.baml
+E:\Coding\Projects C#\ADOExam2.0\ADOExam2.0\bin\Debug\ADOExam2.0.exe.config
+E:\Coding\Projects C#\ADOExam2.0\ADOExam2.0\bin\Debug\ADOExam2.0.exe
+E:\Coding\Projects C#\ADOExam2.0\ADOExam2.0\bin\Debug\ADOExam2.0.pdb
+E:\Coding\Projects C#\ADOExam2.0\ADOExam2.0\obj\Debug\ADOExam2.0.csproj.AssemblyReference.cache
+E:\Coding\Projects C#\ADOExam2.0\ADOExam2.0\obj\Debug\AddBook.g.cs
+E:\Coding\Projects C#\ADOExam2.0\ADOExam2.0\obj\Debug\BookStore.g.cs
+E:\Coding\Projects C#\ADOExam2.0\ADOExam2.0\obj\Debug\DeleteBook.g.cs
+E:\Coding\Projects C#\ADOExam2.0\ADOExam2.0\obj\Debug\EditBook.g.cs
+E:\Coding\Projects C#\ADOExam2.0\ADOExam2.0\obj\Debug\MainWindow.g.cs
+E:\Coding\Projects C#\ADOExam2.0\ADOExam2.0\obj\Debug\SearchBook.g.cs
+E:\Coding\Projects C#\ADOExam2.0\ADOExam2.0\obj\Debug\SellBook.g.cs
+E:\Coding\Projects C#\ADOExam2.0\ADOExam2.0\obj\Debug\ShowBestsellers.g.cs
+E:\Coding\Projects C#\ADOExam2.0\ADOExam2.0\obj\Debug\ShowBooks.g.cs
+E:\Coding\Projects C#\ADOExam2.0\ADOExam2.0\obj\Debug\ShowNovelties.g.cs
+E:\Coding\Projects C#\ADOExam2.0\ADOExam2.0\obj\Debug\ShowPopularAuthors.g.cs
+E:\Coding\Projects C#\ADOExam2.0\ADOExam2.0\obj\Debug\ShowSales.g.cs
+E:\Coding\Projects C#\ADOExam2.0\ADOExam2.0\obj\Debug\App.g.cs
+E:\Coding\Projects C#\ADOExam2.0\ADOExam2.0\obj\Debug\ADOExam2.0_MarkupCompile.cache
+E:\Coding\Projects C#\ADOExam2.0\ADOExam2.0\obj\Debug\ADOExam2.0_MarkupCompile.lref
+E:\Coding\Projects C#\ADOExam2.0\ADOExam2.0\obj\Debug\AddBook.baml
+E:\Coding\Projects C#\ADOExam2.0\ADOExam2.0\obj\Debug\BookStore.baml
+E:\Coding\Projects C#\ADOExam2.0\ADOExam2.0\obj\Debug\DeleteBook.baml
+E:\Coding\Projects C#\ADOExam2.0\ADOExam2.0\obj\Debug\EditBook.baml
+E:\Coding\Projects C#\ADOExam2.0\ADOExam2.0\obj\Debug\MainWindow.baml
+E:\Coding\Projects C#\ADOExam2.0\ADOExam2.0\obj\Debug\SearchBook.baml
+E:\Coding\Projects C#\ADOExam2.0\ADOExam2.0\obj\Debug\SellBook.baml
+E:\Coding\Projects C#\ADOExam2.0\ADOExam2.0\obj\Debug\ShowBestsellers.baml
+E:\Coding\Projects C#\ADOExam2.0\ADOExam2.0\obj\Debug\ShowBooks.baml
+E:\Coding\Projects C#\ADOExam2.0\ADOExam2.0\obj\Debug\ShowNovelties.baml
+E:\Coding\Projects C#\ADOExam2.0\ADOExam2.0\obj\Debug\ShowPopularAuthors.baml
+E:\Coding\Projects C#\ADOExam2.0\ADOExam2.0\obj\Debug\ShowSales.baml
+E:\Coding\Projects C#\ADOExam2.0\ADOExam2.0\obj\Debug\ADOExam2.0.g.resources
+E:\Coding\Projects C#\ADOExam2.0\ADOExam2.0\obj\Debug\ADOExam2._0.Properties.Resources.resources
+E:\Coding\Projects C#\ADOExam2.0\ADOExam2.0\obj\Debug\ADOExam2.0.csproj.GenerateResource.cache
+E:\Coding\Projects C#\ADOExam2.0\ADOExam2.0\obj\Debug\ADOExam2.0.csproj.CoreCompileInputs.cache
+E:\Coding\Projects C#\ADOExam2.0\ADOExam2.0\obj\Debug\ADOExam2.0.exe
+E:\Coding\Projects C#\ADOExam2.0\ADOExam2.0\obj\Debug\ADOExam2.0.pdb
